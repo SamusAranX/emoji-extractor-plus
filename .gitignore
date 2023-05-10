@@ -1,2 +1,4 @@
-*.txt
-images
+.DS_Store
+/*.xml
+/images
+/.idea
